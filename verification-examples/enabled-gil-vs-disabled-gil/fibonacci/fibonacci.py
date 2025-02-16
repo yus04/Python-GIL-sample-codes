@@ -24,4 +24,4 @@ for t in threads:
 
 end = time.time()
 print("Results:", results)
-print("Disabled-GIL Time:", end - start)
+print("Time:", end - start)

@@ -46,4 +46,4 @@ if __name__ == "__main__":
 
     end_time = time.time()
 
-    print("Disabled-GIL Time:", end_time - start_time)
+    print("Time:", end_time - start_time)

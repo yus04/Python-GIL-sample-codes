@@ -73,4 +73,4 @@ if __name__ == "__main__":
 
     # Print results
     # print("Results:", sorted_list)
-    print("Enabled-GIL Time:", sort_end_time - start_time)
+    print("Time:", sort_end_time - start_time)

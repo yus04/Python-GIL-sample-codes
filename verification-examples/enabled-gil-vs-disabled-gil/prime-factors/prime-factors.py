@@ -56,4 +56,4 @@ if __name__ == "__main__":
 
     # Print results
     # print("Results:", factor_results)
-    print("Disabled-GIL Time:", factor_end_time - start_time)
+    print("Time:", factor_end_time - start_time)

@@ -20,4 +20,4 @@ if __name__ == "__main__":
     sorted_arr = bubble_sort(arr)
     end_time = time.time()
     
-    print("Disabled-GIL Time:", end_time - start_time)
+    print("Time:", end_time - start_time)

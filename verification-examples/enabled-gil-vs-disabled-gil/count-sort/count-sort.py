@@ -48,4 +48,4 @@ if __name__ == "__main__":
     
     end_time = time.time()
     
-    print("Enabled-GIL Time:", end_time - start_time)
+    print("Time:", end_time - start_time)
